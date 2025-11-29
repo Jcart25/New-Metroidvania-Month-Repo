@@ -11,6 +11,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Sewers.unity
     guid: 07a0ebad6cab8f3409986820d886228f
+  - enabled: 1
+    path: Assets/Scenes/Employee Hideout.unity
+    guid: 31f5ecffb0bbeb343b4f0d68db3fe417
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

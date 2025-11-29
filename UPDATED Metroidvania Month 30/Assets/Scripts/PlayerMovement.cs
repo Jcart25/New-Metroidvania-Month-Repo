@@ -62,5 +62,10 @@ public class PlayerMovement : MonoBehaviour
         {
             SceneManager.LoadScene(sceneName: "Sewers");
         }
+
+        if (collision.gameObject.name == "Hideout Entrance")
+        {
+            SceneManager.LoadScene(sceneName: "Employee Hideout");
+        }
     }
 }
